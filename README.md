@@ -1,6 +1,18 @@
-# vue-hangman
+# Hangman (Виселица) - угадай имя
 
-This template should help get you started developing with Vue 3 in Vite.
+Учебный проект на Vue 3 (Composition API) и TypeScript. [(демо)](https://hangman-orcin.vercel.app/](https://vue-hangman-murex.vercel.app/))
+
+## Верстка
+
+Разметка и стили лежат в папке layout
+
+## Стек
+
+- Vue 3 (Composition API)
+- TypeScript
+- HTML
+- CSS
+- Axios
 
 ## Recommended IDE Setup
 
