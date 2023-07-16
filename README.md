@@ -1,6 +1,6 @@
 # Hangman (Виселица) - угадай имя
 
-Учебный проект на Vue 3 (Composition API) и TypeScript. [(демо)](https://hangman-orcin.vercel.app/](https://vue-hangman-murex.vercel.app/))
+Учебный проект на Vue 3 (Composition API) и TypeScript. [(демо)](https://hangman-orcin.vercel.app/](https://vue-hangman-murex.vercel.app/)
 
 ## Верстка
 
